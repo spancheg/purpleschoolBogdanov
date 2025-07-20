@@ -7,7 +7,7 @@ switch (language) {
 	case 'en':
 		console.log('Good day!');
 		break;	
-	case 'ru':
+	case 'de':
 		console.log('Gutten tag!');
 		break;
 	default:
