@@ -1,4 +1,4 @@
-const language = 'en';
+const language = 'de';
 
 switch (language) {
 	case 'ru':
